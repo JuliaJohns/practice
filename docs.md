@@ -1,3 +1,1 @@
-This is sample documentation.
-
-Note that this sample documentation is for testing purposes only.
+This is sample documentation. Note that this sample documentation is for testing purposes only.
