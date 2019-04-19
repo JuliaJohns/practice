@@ -1,1 +1,3 @@
-This is sample documentation. Note that this sample documentation is for testing purposes only.
+This is sample documentation for a class exercise. Note that this sample documentation is for testing purposes.
+
+Added change.
