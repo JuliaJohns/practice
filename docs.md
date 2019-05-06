@@ -1,4 +1,6 @@
-This is just a test. 
+Git-branch edit test.
+
+This is just a test. That's right-- this is an example!
 
 This is sample documentation for a Git for Writers class exercise. Note that this sample documentation is for testing purposes.
 
