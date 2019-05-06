@@ -1,6 +1,6 @@
-Git-branch edit test.
+The changes from git-branch are now merged into master.
 
-This is just a test. That's right-- this is an example!
+Edit to line 3 on conflict-test branch.
 
 This is sample documentation for a Git for Writers class exercise. Note that this sample documentation is for testing purposes.
 
