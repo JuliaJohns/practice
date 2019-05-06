@@ -1,6 +1,4 @@
-First line of pull request test.
-
-This is an edit to line 3 from the master.
+This is just a test. 
 
 This is sample documentation for a Git for Writers class exercise. Note that this sample documentation is for testing purposes.
 
@@ -8,8 +6,3 @@ Note that this toothbrush is totally safe to use for children, adults, pets, wil
 
 Added change!++
 
-Final test to push.
-
-Remote edit to test pulling locally.
-
-The toothbrush requires .... xyz.
