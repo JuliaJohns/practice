@@ -1,5 +1,6 @@
-First line of pull request test.
 
+
+Edit to line 3 on conflict-test branch.
 
 This is sample documentation for a Git for Writers class exercise. Note that this sample documentation is for testing purposes.
 
