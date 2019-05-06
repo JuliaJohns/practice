@@ -1,5 +1,4 @@
-
-This is an edit to line 3 from the master.
+The changes from git-branch are now merged into master.
 
 Edit to line 3 on conflict-test branch.
 
@@ -9,8 +8,3 @@ Note that this toothbrush is totally safe to use for children, adults, pets, wil
 
 Added change!++
 
-Final test to push.
-
-Remote edit to test pulling locally.
-
-The toothbrush requires .... xyz.
